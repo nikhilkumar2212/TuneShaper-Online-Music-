@@ -10,6 +10,11 @@ HTML: For structuring the website.
 CSS: For styling and responsive design.
 JavaScript: For interactivity and dynamic content management.
 
+# Usage
+Navigate through playlists on the homepage.
+Click on any playlist to view the songs it contains.
+Select a song to play it immediately.
+
 # Contact
 For any questions or suggestions, feel free to reach out:
 Email: nk9124135@gmail.com
